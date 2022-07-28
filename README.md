@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @anujaaashelke
-- 👀 I’m interested in learning new skills,cooking,reading
-- 🌱 I’m currently learning web development
+- 👋 Hi, I’m anuja shelke.
+- Done B.Tech in Computer Engineering from Vishwakarma Institute of Technology.
+- 👀 I’m interested in learning new skills,cooking,reading,exploring new things.
+- 🌱 I’m currently learning web development.
 
 - 📫 How to reach me: my email id: ajshelke999@gmail.com
 
